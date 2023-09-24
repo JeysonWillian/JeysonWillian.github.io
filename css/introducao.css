@@ -8,6 +8,13 @@
   align-items: center;
 }
 
+.introducao img {
+  border-top-left-radius: 100px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 100px;
+}
+
 .introducao h1 {
   font-size: 4.5rem;
   line-height: 1.125;
@@ -20,8 +27,8 @@
   display: block;
   width: 130px;
   height: 100px;
-  backgrounD: url(../img/detalhe.svg) no-repeat center;
-  position:absolute;
+  background: url(../img/detalhe.svg) no-repeat center;
+  position: absolute;
   top: -15px;
   left: -40px;
   z-index: -1;
