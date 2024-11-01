@@ -29,6 +29,12 @@
   display: block;
 }
 
+.header-menu a:hover {
+  border-radius: 4px;  
+  background: #ffffff;
+  color: #67dd0a;
+}
+
 @media (max-width: 800px) {
   .header {
     flex-direction: column;

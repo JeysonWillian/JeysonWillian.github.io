@@ -61,6 +61,16 @@
   font-weight: bold;
 }
 
+.empresa-titulo a {
+  color: #141414;
+  text-decoration: none;
+}
+
+.empresa a:hover {
+  border-radius: 4px;
+  color: #67dd0a;
+}
+
 .empresa-texto {
   font-size: 0.875rem;
   line-height: 1.4;
@@ -80,6 +90,11 @@
   background: #ffffff;
   border-radius: 4px;
   padding: 5px 10px;
+}
+
+.empresa-habilidades li a {
+  color: #141414;
+  text-decoration: none;
 }
 
 @media (max-width: 800px) {
