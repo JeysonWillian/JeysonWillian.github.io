@@ -16,3 +16,8 @@ function initScrollSuave() {
   });
 }
 initScrollSuave();
+
+//Animação
+if (window.SimpleAnime) {
+  new SimpleAnime();
+}
