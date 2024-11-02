@@ -63,7 +63,6 @@
 
 .empresa-titulo a {
   color: #141414;
-  text-decoration: none;
 }
 
 .empresa a:hover {
@@ -94,7 +93,6 @@
 
 .empresa-habilidades li a {
   color: #141414;
-  text-decoration: none;
 }
 
 @media (max-width: 800px) {
